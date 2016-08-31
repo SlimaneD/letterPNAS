@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.8.17)  31 AUG 2016 11:09
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.8.17)  31 AUG 2016 11:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -311,7 +311,7 @@ LaTeX Warning: File `logoUPenn.eps' not found on input line 142.
 
 Package epstopdf Info: Source file: <logoUPenn.eps>
 (epstopdf)             Output file: <logoUPenn-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-02-17 11:20:54
+(epstopdf)                    date: 2016-08-31 11:20:37
 (epstopdf)                    size: 24955 bytes
 (epstopdf)             Command: <repstopdf --outfile=logoUPenn-eps-converted-to
 .pdf logoUPenn.eps>
@@ -371,13 +371,13 @@ File: mdbmdugm.fd 2013/08/29 Fontinst v1.933 font definitions for MDB/mdugm.
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./logoUPenn-eps-converted-
 to.pdf>] (./CoverLetter.aux) ) 
 Here is how much of TeX's memory you used:
- 4752 strings out of 493304
- 73514 string characters out of 6139871
- 146131 words of memory out of 5000000
+ 4754 strings out of 493304
+ 73532 string characters out of 6139871
+ 147131 words of memory out of 5000000
  8032 multiletter control sequences out of 15000+600000
- 58762 words of font info for 102 fonts, out of 8000000 for 9000
+ 58956 words of font info for 103 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 38i,4n,39p,318b,248s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 38i,4n,39p,567b,248s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/ly
 1/texnansi.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/lato/lato-01.enc}
 </usr/share/texlive/texmf-dist/fonts/type1/public/lato/Lato-Reg.pfb></usr/share
@@ -385,7 +385,7 @@ Here is how much of TeX's memory you used:
 exmf/fonts/type1/urw/garamond/ugmm8a.pfb></usr/local/share/texmf/fonts/type1/ur
 w/garamond/ugmr8a.pfb></usr/local/share/texmf/fonts/type1/urw/garamond/ugmri8a.
 pfb>
-Output written on CoverLetter.pdf (1 page, 97393 bytes).
+Output written on CoverLetter.pdf (1 page, 97933 bytes).
 PDF statistics:
  36 PDF objects out of 1000 (max. 8388607)
  25 compressed objects within 1 object stream
